@@ -13,7 +13,7 @@ Here are the topics that are covered:
 5. [Demo](demo/README.md)
 6. Q&A
 
-The PPT for this presentation is available at [Advanced Networking with Azure PowerPoint](https://https://docs.google.com/presentation/d/19KcjsOZd_EzusX5koVdQtm-i4qi8rSe9/edit?usp=sharing&ouid=114770584625727003653&rtpof=true&sd=true)
+The PPT for this presentation is available at [Advanced Networking with Azure PowerPoint](https://docs.google.com/presentation/d/19KcjsOZd_EzusX5koVdQtm-i4qi8rSe9/edit?usp=sharing&ouid=114770584625727003653&rtpof=true&sd=true)
 
 ----------
 
