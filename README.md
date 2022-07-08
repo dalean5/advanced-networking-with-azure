@@ -7,7 +7,7 @@ This is the official repository for my **Advanced Networking with Azure** presen
 Here are the topics that are covered:
 
 1. Azure Virtual Network Overview
-2. Single VNet Design
+2. Simple Azure VNet Design
 3. Common Azure Networking Services
 4. Networking Security Considerations
 5. [Demo](demo/README.md)
